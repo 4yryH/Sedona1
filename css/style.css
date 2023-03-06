@@ -625,7 +625,7 @@ justify-content: space-around;
   top: 0px;
   width: 23px;
   height: 23px;
-  background-image: url("img/checkbox-off.svg");
+  background-image: url("/img/checkbox-off.svg");
 }
 
 
@@ -636,7 +636,7 @@ justify-content: space-around;
   top: 0px;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-off-disable.svg");
+  background-image: url("/img/checkbox-off-disable.svg");
   background-repeat: no-repeat;
 }
 
@@ -647,7 +647,7 @@ justify-content: space-around;
   top: 0px;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-on.svg");
+  background-image: url("/img/checkbox-on.svg");
   background-repeat: no-repeat;
 }
 
@@ -658,7 +658,7 @@ justify-content: space-around;
   top: 0px;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-on-disable.svg");
+  background-image: url("/img/checkbox-on-disable.svg");
   background-repeat: no-repeat;
 }
 
@@ -676,7 +676,7 @@ justify-content: space-around;
   top: 0;
   width: 23px;
   height: 23px;
-  background-image: url("img/checkbox-off.svg");
+  background-image: url("/img/checkbox-off.svg");
   background-repeat: no-repeat;
 }
 
@@ -687,7 +687,7 @@ justify-content: space-around;
   top: 0;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-on.svg");
+  background-image: url("/img/checkbox-on.svg");
 }
 
 
@@ -699,7 +699,7 @@ justify-content: space-around;
   top: 0px;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-off-disable.svg");
+  background-image: url("/img/checkbox-off-disable.svg");
   background-repeat: no-repeat;
 }
 
@@ -710,7 +710,7 @@ justify-content: space-around;
   top: 0px;
   width: 27px;
   height: 23px;
-  background-image: url("img/checkbox-on-disable.svg");
+  background-image: url("/img/checkbox-on-disable.svg");
   background-repeat: no-repeat;
 }
 
